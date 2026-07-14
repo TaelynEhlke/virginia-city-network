@@ -13,10 +13,6 @@ By combining historical cencus records, newspapers, city directories, and archiv
 
 ## Data Sources
 - 1880 U.S. Census
-- Historical newspapers
-- Montana Historical Society archives
-- City directories
-- Cemetary records (if available)
 
 ## Tools
 - Python
